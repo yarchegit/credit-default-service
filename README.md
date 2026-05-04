@@ -129,12 +129,6 @@ curl -X POST http://localhost:5001/predict/v2 \\
 
 ---
 
-## 🧪 Тестирование
-
-### Unit тесты
-```bash
-pytest tests/
-```
 
 ### Интерактивное тестирование
 Используйте notebook: `notebooks/02_test_api.ipynb`

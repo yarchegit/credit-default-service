@@ -155,17 +155,6 @@ Endpoint `/predict` автоматически распределяет 50% за
 
 ---
 
-## 🏗️ Архитектура
-
-- **Backend:** Flask + Gunicorn
-- **ML Framework:** scikit-learn
-- **Models:** GradientBoostingClassifier
-- **Monitoring:** Health check endpoint
-
-Подробности: [ARCHITECTURE.md](ARCHITECTURE.md)
-
----
-
 ## 📝 Переменные окружения
 
 | Переменная | Описание | По умолчанию |
